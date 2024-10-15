@@ -191,7 +191,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cristiano Filho](https://cristianofilho.github.io)
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cui Ding](https://cuierd.github.io)
-
+  
 ## D
 
 - [Dale French](https://dalefrench.dev)
@@ -688,6 +688,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Travis Fischer](https://transitivebullsh.it)
 - [Tristan Chin](https://www.chintristan.io)
 - [Tsiry Sandratraina](https://tsiry-sandratraina.com)
+- [Tiavina Cyri](https://tiavinacyri.vercel.app)
 
 ## U
 
